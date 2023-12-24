@@ -1,0 +1,24 @@
+/* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+body, html{
+    font-family: 'Roboto';
+    color:hsl(234, 29%, 20%);
+}
+
+button{
+    background-color: hsl(234, 29%, 20%);
+    color: white;
+}
+
+button:hover{
+    background-color: hsl(4, 100%, 67%);
+    border: 2px solid hsl(4, 100%, 67%);
+}
+
+@media (min-width: 1440px) {
+    body{
+        background-color: hsl(235, 18%, 26%);
+        overflow-y: hidden;
+    }
+}
