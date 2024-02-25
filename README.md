@@ -33,13 +33,21 @@ Users should be able to:
 
 ### Screenshot
 
-| Normal State | Active State | Error State: Wrong input |
-|:---------:|:---------:|:---------:|
-| ![Normal State](./screenshots/normal-state.png) | ![Active State](./screenshots/active-state.png) | ![Error State: Wrong input](./screenshots/error-wrong-input-state.png) |
-
-| Error State: No input | Mobile State |
+| Normal State: Desktop | Success State: Desktop |
 |:---------:|:---------:|
-| ![Error State: No input](./screenshots/error-no-input-state.png) | ![Mobile State](./screenshots/mobile-state.png) |
+| ![Normal State: Desktop](./screenshots/normal-state.png) | ![Success State: Desktop](./screenshots/success-state-desktop.png) |
+
+| Active State: Submit button | Active State: Input |
+|:---------:|:---------:|
+| ![Active State: Submit button](./screenshots/active-state-button.png) | ![Active State: Input](./screenshots/active-state-input.png) |
+
+| Error State: No Input | Error State: Wrong Input |
+|:---------:|:---------:|
+| ![Error State: No Input](./screenshots/error-no-input-state.png) | ![Error State: Wrong Input](./screenshots/error-wrong-input-state.png) |
+
+| Normal State: Mobile | Success State: Mobile |
+|:---------:|:---------:|
+| ![Normal State: Mobile](./screenshots/mobile-state.png) | ![Success State: Mobile](./screenshots/success-state-mobile.png) |
 
 ### Links
 
