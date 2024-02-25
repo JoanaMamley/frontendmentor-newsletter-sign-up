@@ -1,0 +1,26 @@
+# Node.js dependencies
+./newsletter-sign-up/node_modules
+
+# Angular build output
+/dist/
+
+# IDE files
+.idea/
+*.iml
+./newsletter-sign-up/.vscode/
+./newsletter-sign-up/.angular
+./newsletter-sign-up/.editorconfig
+
+# Log files
+npm-debug.log
+yarn-error.log
+
+# Environment variables
+.env
+
+# Compiled Typescript
+*.js
+
+# Dependency lock files
+package-lock.json
+yarn.lock
