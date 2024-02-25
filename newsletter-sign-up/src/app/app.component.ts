@@ -6,5 +6,9 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'newsletter-sign-up';
+  success = false;
+
+  onSubmitEvent(data: boolean){
+    this.success = data;
+  }
 }

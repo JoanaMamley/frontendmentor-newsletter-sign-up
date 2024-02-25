@@ -1,0 +1,37 @@
+.container{
+    margin: 6rem auto 0;
+}
+
+h1{
+    font-size: 3rem;
+}
+
+button{
+    margin-top: 8rem;
+}
+
+@media (min-width: 1440px) {
+    .background{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+    }
+
+   .container{
+    margin-top: 3rem;
+    background-color: white;
+    width: 35%;
+    border-radius: 2rem;
+    padding: 3rem;
+   }
+
+   h1{
+    font-size: 3.5rem;
+   }
+
+   p{
+    margin-top: 3rem;
+    font-size: 1rem;
+   }
+}

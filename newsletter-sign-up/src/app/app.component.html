@@ -1,0 +1,2 @@
+<app-sign-up *ngIf="!success" (submitEvent)="onSubmitEvent($event)"></app-sign-up>
+<app-success *ngIf="success" (dismissEvent)="onSubmitEvent($event)"></app-success>
